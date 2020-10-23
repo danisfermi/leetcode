@@ -12,3 +12,4 @@
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./python/21/mergeTwoLists.py)|Easy|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./python/24/swapPairs.py)|Medium|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python](./python/31/nextPermutation.py)|Medium|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](./python/33/search.py)|Medium|
