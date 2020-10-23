@@ -67,3 +67,4 @@
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Python](./python/1470/shuffle.py)|Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python](./python/1480/runningSum.py)|Easy|
 |1482|[Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [Python](./python/1482/minDays.py)|Medium|
+|1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Python](./python/1512/numIdenticalPairs.py)|Easy|
