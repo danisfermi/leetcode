@@ -26,3 +26,4 @@
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./python/206/reverseList.py)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python](./python/263/isUgly.py)|Easy|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Python](./python/264/nthUglyNumber.py)|Medium|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](./python/278/firstBadVersion.py)|Easy|
