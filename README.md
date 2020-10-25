@@ -24,3 +24,4 @@
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Python](./python/152/maxProduct.py)|Medium|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./python/167/twoSum.py)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./python/206/reverseList.py)|Easy|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python](./python/263/isUgly.py)|Easy|
