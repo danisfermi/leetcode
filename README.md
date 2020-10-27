@@ -4,3 +4,4 @@
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./python/1/twoSum.py)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./python/2/addTwoNumbers)|Medium|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./python/3/lengthOfLongestSubstring.py)|Medium|
