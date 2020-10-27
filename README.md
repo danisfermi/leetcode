@@ -69,3 +69,4 @@
 |1482|[Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [Python](./python/1482/minDays.py)|Medium|
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Python](./python/1512/numIdenticalPairs.py)|Easy|
 |1557|[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | [Python](./python/1557/findSmallestSetOfVertices.py)|Medium|
+|1629|[Slowest Key](https://leetcode.com/problems/slowest-key/) | [Python](./python/1629/slowestKey.py)|Easy|
