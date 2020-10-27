@@ -15,3 +15,4 @@
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](./python/33/search.py)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./python/35/searchInsert.py)|Easy|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Python](./python/45/jump.py)|Hard|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./python/53/maxSubArray.py)|Easy|
