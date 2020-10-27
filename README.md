@@ -13,3 +13,4 @@
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./python/24/swapPairs.py)|Medium|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python](./python/31/nextPermutation.py)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](./python/33/search.py)|Medium|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./python/35/searchInsert.py)|Easy|
