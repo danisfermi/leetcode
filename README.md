@@ -58,3 +58,4 @@
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Python](./python/1008/bstFromPreorder.py)|Medium|
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Python](./python/1011/shipWithinDays.py)|Medium|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](./python/1143/longestCommonSubsequence.py)|Medium|
+|1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Python](./python/1302/deepestLeavesSum.py)|Medium|
