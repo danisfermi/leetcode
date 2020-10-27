@@ -30,3 +30,4 @@
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python](./python/300/lengthOfLIS.py)|Medium|
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [Python](./python/313/nthSuperUglyNumber.py)|Medium|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/) | [Python](./python/322/coinChange.py)|Medium|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Python](./python/389/findTheDifference.py)|Easy|
