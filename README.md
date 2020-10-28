@@ -17,3 +17,4 @@
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Python](./python/45/jump.py)|Hard|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./python/53/maxSubArray.py)|Easy|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./python/55/canJump.py)|Medium|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](./python/56/merge.py)|Medium|
