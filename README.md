@@ -45,3 +45,4 @@
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Python](./python/647/countSubstrings.py)|Medium|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Python](./python/654/constructMaximumBinaryTree.py)|Medium|
 |668|[Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [Python](./python/668/findKthNumber.py)|Hard|
+|674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Python](./python/674/findLengthOfLCIS.py)|Easy|
