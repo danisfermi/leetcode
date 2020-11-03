@@ -53,3 +53,4 @@
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Python](./python/797/allPathsSourceTarget.py)|Medium|
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | [Python](./python/814/pruneTree.py)|Medium|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Python](./python/875/minEatingSpeed.py)|Medium|
+|887|[Super Egg Drop](https://leetcode.com/problems/super-egg-drop/) | [Python](./python/887/superEggDrop.py)|Hard|
