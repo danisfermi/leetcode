@@ -37,3 +37,4 @@
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](./python/435/eraseOverlapIntervals.py)|Medium|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Python](./python/452/findMinArrowShots.py)|Medium|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](./python/509/fib.py)|Easy|
+|516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Python](./python/516/longestPalindromeSubseq.py)|Medium|
