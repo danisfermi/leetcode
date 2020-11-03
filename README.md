@@ -16,3 +16,4 @@
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./python/35/searchInsert.py)|Easy|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Python](./python/45/jump.py)|Hard|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./python/53/maxSubArray.py)|Easy|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./python/55/canJump.py)|Medium|
