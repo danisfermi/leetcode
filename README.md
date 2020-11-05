@@ -54,3 +54,4 @@
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | [Python](./python/814/pruneTree.py)|Medium|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Python](./python/875/minEatingSpeed.py)|Medium|
 |887|[Super Egg Drop](https://leetcode.com/problems/super-egg-drop/) | [Python](./python/887/superEggDrop.py)|Hard|
+|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python](./python/938/rangeSumBST.py)|Easy|
