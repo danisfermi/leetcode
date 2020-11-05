@@ -43,3 +43,4 @@
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Python](./python/590/postorder.py)|Easy|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](./python/617/mergeTrees.py)|Easy|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Python](./python/647/countSubstrings.py)|Medium|
+|654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Python](./python/654/constructMaximumBinaryTree.py)|Medium|
