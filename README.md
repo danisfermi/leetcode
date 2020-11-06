@@ -40,3 +40,4 @@
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Python](./python/516/longestPalindromeSubseq.py)|Medium|
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Python](./python/518/change.py)|Medium|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Python](./python/589/preorder.py)|Easy|
+|590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Python](./python/590/postorder.py)|Easy|
