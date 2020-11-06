@@ -48,3 +48,4 @@
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Python](./python/674/findLengthOfLCIS.py)|Easy|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Python](./python/700/searchBST.py)|Easy|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Python](./python/701/insertIntoBST.py)|Medium|
+|704|[Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./python/704/search.py)|Easy|
