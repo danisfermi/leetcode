@@ -61,3 +61,4 @@
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Python](./python/1302/deepestLeavesSum.py)|Medium|
 |1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [Python](./python/1305/getAllElements.py)|Medium|
 |1315|[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | [Python](./python/1315/sumEvenGrandparent.py)|Medium|
+|1325|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | [Python](./python/1325/sumEvenGrandparent.py)|Medium|
