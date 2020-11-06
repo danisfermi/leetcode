@@ -51,3 +51,4 @@
 |704|[Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./python/704/search.py)|Easy|
 |719|[Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [Python](./python/719/smallestDistancePair.py)|Hard|
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Python](./python/797/allPathsSourceTarget.py)|Medium|
+|814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | [Python](./python/814/pruneTree.py)|Medium|
