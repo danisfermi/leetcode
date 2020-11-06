@@ -46,3 +46,4 @@
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Python](./python/654/constructMaximumBinaryTree.py)|Medium|
 |668|[Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [Python](./python/668/findKthNumber.py)|Hard|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Python](./python/674/findLengthOfLCIS.py)|Easy|
+|700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Python](./python/700/searchBST.py)|Easy|
