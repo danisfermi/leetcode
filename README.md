@@ -59,3 +59,4 @@
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Python](./python/1011/shipWithinDays.py)|Medium|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](./python/1143/longestCommonSubsequence.py)|Medium|
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Python](./python/1302/deepestLeavesSum.py)|Medium|
+|1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [Python](./python/1305/getAllElements.py)|Medium|
