@@ -9,6 +9,7 @@
 |11|[Container with Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./python/11/maxArea.py)|Medium|
 |15|[3Sum](https://leetcode.com/problems/container-with-most-water/) | [Python](./python/15/threeSum.py)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](./python/19/removeNthFromEnd.py)|Medium|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./python/20/isValid.py)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./python/21/mergeTwoLists.py)|Easy|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./python/24/swapPairs.py)|Medium|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python](./python/31/nextPermutation.py)|Medium|
