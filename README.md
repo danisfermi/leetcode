@@ -57,6 +57,7 @@
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python](./python/938/rangeSumBST.py)|Easy|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Python](./python/1008/bstFromPreorder.py)|Medium|
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Python](./python/1011/shipWithinDays.py)|Medium|
+|1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](./python/1108/defangIPaddr.py)|Easy|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](./python/1143/longestCommonSubsequence.py)|Medium|
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Python](./python/1290/getDecimalValue.py)|Easy|
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Python](./python/1302/deepestLeavesSum.py)|Medium|
