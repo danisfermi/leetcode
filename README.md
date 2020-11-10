@@ -21,6 +21,7 @@
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./python/53/maxSubArray.py)|Easy|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./python/55/canJump.py)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](./python/56/merge.py)|Medium|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](./python/62/uniquePaths.py)|Medium|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python](./python/69/mySqrt.py)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./python/141/hasCycle.py)|Easy|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](./python/142/detectCycle.py)|Medium|
