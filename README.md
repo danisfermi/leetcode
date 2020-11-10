@@ -6,6 +6,7 @@
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./python/2/addTwoNumbers)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./python/3/lengthOfLongestSubstring.py)|Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./python/5/longestPalindrome.py)|Medium|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./python/9/isPalindrome.py)|Easy|
 |11|[Container with Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./python/11/maxArea.py)|Medium|
 |15|[3Sum](https://leetcode.com/problems/container-with-most-water/) | [Python](./python/15/threeSum.py)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Python](./python/16/threeSumClosest.py)|Medium|
