@@ -3,9 +3,9 @@
 <div align="center">
 <img src="https://github.com/danisfermi/leetcode/raw/master/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-86/1649-337ab7.svg?style=flat)](https://github.com/danisfermi/leetcode)
+[![Solved](https://img.shields.io/badge/Solved-87/1649-337ab7.svg?style=flat)](https://github.com/danisfermi/leetcode)
 [![Easy](https://img.shields.io/badge/Easy-34-5cb85c.svg?style=flat)](https://github.com/danisfermi/leetcode)
-[![Medium](https://img.shields.io/badge/Medium-46-f0ad4e.svg?style=flat)](https://github.com/danisfermi/leetcode)
+[![Medium](https://img.shields.io/badge/Medium-47-f0ad4e.svg?style=flat)](https://github.com/danisfermi/leetcode)
 [![Hard](https://img.shields.io/badge/Hard-6-d9534f.svg?style=flat)](https://github.com/danisfermi/leetcode)
 </br>
 [![Languages](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)](https://github.com/danisfermi/leetcode)
@@ -82,6 +82,7 @@ _All solutions are orderd by: Solution #_
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/700/searchBST.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/701/insertIntoBST.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/704/search.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
+|714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/714/maxProfit.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |719|[Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/719/smallestDistancePair.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/771/numJewelsInStones.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/797/allPathsSourceTarget.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
