@@ -3,9 +3,9 @@
 <div align="center">
 <img src="https://github.com/danisfermi/leetcode/raw/master/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-85/1649-337ab7.svg?style=flat)](https://github.com/danisfermi/leetcode)
+[![Solved](https://img.shields.io/badge/Solved-86/1649-337ab7.svg?style=flat)](https://github.com/danisfermi/leetcode)
 [![Easy](https://img.shields.io/badge/Easy-34-5cb85c.svg?style=flat)](https://github.com/danisfermi/leetcode)
-[![Medium](https://img.shields.io/badge/Medium-45-f0ad4e.svg?style=flat)](https://github.com/danisfermi/leetcode)
+[![Medium](https://img.shields.io/badge/Medium-46-f0ad4e.svg?style=flat)](https://github.com/danisfermi/leetcode)
 [![Hard](https://img.shields.io/badge/Hard-6-d9534f.svg?style=flat)](https://github.com/danisfermi/leetcode)
 </br>
 [![Languages](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)](https://github.com/danisfermi/leetcode)
@@ -61,6 +61,7 @@ _All solutions are orderd by: Solution #_
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/264/nthUglyNumber.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/278/firstBadVersion.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/300/lengthOfLIS.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
+|309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/309/maxProfit.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/313/nthSuperUglyNumber.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/322/coinChange.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/334/increasingTriplet.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
