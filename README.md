@@ -3,10 +3,10 @@
 <div align="center">
 <img src="https://github.com/danisfermi/leetcode/raw/master/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-88/1649-337ab7.svg?style=flat)](https://github.com/danisfermi/leetcode)
+[![Solved](https://img.shields.io/badge/Solved-89/1649-337ab7.svg?style=flat)](https://github.com/danisfermi/leetcode)
 [![Easy](https://img.shields.io/badge/Easy-34-5cb85c.svg?style=flat)](https://github.com/danisfermi/leetcode)
 [![Medium](https://img.shields.io/badge/Medium-48-f0ad4e.svg?style=flat)](https://github.com/danisfermi/leetcode)
-[![Hard](https://img.shields.io/badge/Hard-6-d9534f.svg?style=flat)](https://github.com/danisfermi/leetcode)
+[![Hard](https://img.shields.io/badge/Hard-7-d9534f.svg?style=flat)](https://github.com/danisfermi/leetcode)
 </br>
 [![Languages](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)](https://github.com/danisfermi/leetcode)
 [![Author](https://img.shields.io/badge/Author-Danis%20Fermi-blue.svg?style=flat)](https://github.com/danisfermi/leetcode)
@@ -48,6 +48,7 @@ _All solutions are orderd by: Solution #_
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/103/zigzagLevelOrder.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/121/maxProfit.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/122/maxProfit.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
+|123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/123/maxProfit.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/141/hasCycle.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/142/detectCycle.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/152/maxProduct.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
