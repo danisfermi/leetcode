@@ -3,10 +3,10 @@
 <div align="center">
 <img src="https://github.com/danisfermi/leetcode/raw/master/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-89/1649-337ab7.svg?style=flat)](https://github.com/danisfermi/leetcode)
+[![Solved](https://img.shields.io/badge/Solved-90/1649-337ab7.svg?style=flat)](https://github.com/danisfermi/leetcode)
 [![Easy](https://img.shields.io/badge/Easy-34-5cb85c.svg?style=flat)](https://github.com/danisfermi/leetcode)
 [![Medium](https://img.shields.io/badge/Medium-48-f0ad4e.svg?style=flat)](https://github.com/danisfermi/leetcode)
-[![Hard](https://img.shields.io/badge/Hard-7-d9534f.svg?style=flat)](https://github.com/danisfermi/leetcode)
+[![Hard](https://img.shields.io/badge/Hard-8-d9534f.svg?style=flat)](https://github.com/danisfermi/leetcode)
 </br>
 [![Languages](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)](https://github.com/danisfermi/leetcode)
 [![Author](https://img.shields.io/badge/Author-Danis%20Fermi-blue.svg?style=flat)](https://github.com/danisfermi/leetcode)
@@ -53,6 +53,7 @@ _All solutions are orderd by: Solution #_
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/142/detectCycle.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/152/maxProduct.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/167/twoSum.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
+|188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/188/maxProfit.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/199/rightSideView.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/206/reverseList.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/224/calculate.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
