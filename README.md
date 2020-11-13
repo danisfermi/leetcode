@@ -3,8 +3,8 @@
 <div align="center">
 <img src="https://github.com/danisfermi/leetcode/raw/master/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-90/1649-337ab7.svg?style=flat)](https://github.com/danisfermi/leetcode)
-[![Easy](https://img.shields.io/badge/Easy-34-5cb85c.svg?style=flat)](https://github.com/danisfermi/leetcode)
+[![Solved](https://img.shields.io/badge/Solved-91/1649-337ab7.svg?style=flat)](https://github.com/danisfermi/leetcode)
+[![Easy](https://img.shields.io/badge/Easy-35-5cb85c.svg?style=flat)](https://github.com/danisfermi/leetcode)
 [![Medium](https://img.shields.io/badge/Medium-48-f0ad4e.svg?style=flat)](https://github.com/danisfermi/leetcode)
 [![Hard](https://img.shields.io/badge/Hard-8-d9534f.svg?style=flat)](https://github.com/danisfermi/leetcode)
 </br>
@@ -44,6 +44,7 @@ _All solutions are orderd by: Solution #_
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/56/merge.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/62/uniquePaths.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/69/mySqrt.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/70/climbStairs.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/102/levelOrder.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/103/zigzagLevelOrder.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/121/maxProfit.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
